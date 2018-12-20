@@ -1,6 +1,6 @@
 # Injustice at Work
 
-This repo contains code and data for "[Injustice at Work]()," a Center for Public Integrity investigation of the effectiveness of federal and state equal employment opportunity laws and the agencies charged with enforcing them.
+This repo contains code and data for "[Injustice at Work]()," a Center for Public Integrity project about the effectiveness of federal and state equal employment opportunity laws and the agencies charged with enforcing them.
 
 Its first story, "[Discriminatory Intent]()" was published on Dec. 21, 2018 in partnership with [The Washington Post]().
 
