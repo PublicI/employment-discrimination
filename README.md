@@ -1,37 +1,37 @@
 # Injustice at Work
 
-This repo contains code and data for "[Injustice at Work]()," a Center for Public Integrity project about the effectiveness of federal and state equal employment opportunity laws and the agencies charged with enforcing them.
+This repo contains code and data for [Injustice at Work](https://publicintegrity.org/topics/workers-rights/workplace-inequities/injustice-at-work/), a Center for Public Integrity project about the effectiveness of federal and state equal employment opportunity laws and the agencies charged with enforcing them.
 
-Its first story, "['Discriminatory Intent'](https://publicintegrity.org/workers-rights/workplace-inequities/injustice-at-work/workplace-discrimination-cases/)" was published on Dec. 21, 2018 in partnership with [The Washington Post]().
+Its first story, ['Discriminatory Intent'](https://publicintegrity.org/workers-rights/workplace-inequities/injustice-at-work/workplace-discrimination-cases/), was published on Dec. 21, 2018 in partnership with [The Washington Post]().
 
 ## Here's what's in this repo.
 
 ### [employment-discrimination.ipynb](employment-discrimination.ipynb)
-This Jupyter notebook contains code used to analyze employment discrimination complaints filed with the federal Equal Employment Opportunity Commission and state and local fair employment practices agencies.
+This Jupyter notebook contains code used to analyze employment discrimination cases filed with the federal Equal Employment Opportunity Commission and state and local fair employment practices agencies.
 
 ### [process_eeoc.sh](process_eeoc.sh)
-This Bash script contains code used to concatenate annual discrimination complaint data for fiscal years 2009 through 2017.
+This Bash script contains code used to concatenate annual discrimination charge data for fiscal years 2009 through 2017.
 
 ### [complaints_11_17.txt](data/complaints_11_17.txt)
 This tab-delimited text file contains data on employment discrimination charges. The data comes from the [Equal Employment Opportunity Commission](https://www.eeoc.gov/) and encompasses charges filed with the EEOC and charges filed with state and local fair employment practices agencies alleging violations of federal anti-discrimination laws.
 
 ### [cases_by_basis.csv](data/cases_by_basis.csv)
-This comma-delimited text file contains data on outcomes of employment discrimination complaints by the specific basis under which a case was filed.
+This comma-delimited text file contains data on outcomes of employment discrimination cases by the specific basis (e.g., Race-Black/African-American) under which a case was filed.
 
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_grouped_basis](data/cases_by_grouped_basis.csv)
-This comma-delimited text file contains data on outcomes of employment discrimination complaints by the grouped basis under which a case was filed. A crosswalk table matching basis to grouped basis is included in this repo.
+This comma-delimited text file contains data on outcomes of employment discrimination cases by the grouped basis (e.g., Race) under which a case was filed. A crosswalk table matching basis to grouped basis is included in this repo.
 
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_basis_and_closure_action.csv](data/cases_by_basis_and_closure_action.csv)
-This comma-delimited text file contains data on outcomes of employment discrimination complaints grouped by the specific basis under which a case was filed and the specific closure action it got.
+This comma-delimited text file contains data on outcomes of employment discrimination cases by the specific basis under which a case was filed and the specific closure action it received.
 
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_year](data/cases_by_year.csv)
-This comma-delimited text file contains data on outcomes of employment discrimination complaints by year.
+This comma-delimited text file contains data on outcomes of employment discrimination cases by year.
 
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
