@@ -38,9 +38,8 @@ Note: A single case will often contain multiple alleged adverse actions with mul
 ### [basis_grouped_basis_crosswalk](data/basis_grouped_basis_crosswalk.csv)
 This comma-delimited text file serves as the basis-to-grouped-basis crosswalk table.
 
-## Data dictionary
+## Data dictionary (complaints_11_17.txt)
 
-#### complaints_11_17.txt
 * FISCAL_YEAR: fiscal year in which a complainant first filed a charge
 * CHARGE_INQUIRY_SEQ: unique identifier for each case (a case is a collection of related charges)
 * STATE_CODE: complainant state
@@ -70,7 +69,7 @@ This comma-delimited text file serves as the basis-to-grouped-basis crosswalk ta
 * CASE_TYPE: case type of lawsuit
 * (SELECTSUM(NVL(BACKPAY,0)+NVL(FRONTPAY,0)+NVL(INTEREST,0)+NVL(LIQUIDATED_DAMAGES,0)+NVL(NON_PEC_COMP_DAMAGES,0)+NVL(PEC_COMP_DAMAGES,0)+NVL(PUNITIVE_DAMAGES,0)+NVL(COSTS_AND_FEES,0))FROMLEG_BENEFITLBWHERELB.LEGCASE_CASE_SEQ=AL7.CASE_SEQ): monetary damages recovered through lawsuit
 
-*Note on terminology*: The EEOC typically uses the word "charge" to refer to each allegation a complainant (charging party) brings against an employer (respondent). The agency also uses this term to refer to the collection of charges that may make up a single case. Here we are using the terms distinctly.
+**Note on terminology**: The EEOC typically uses the word "charge" to refer to each allegation a complainant (charging party) brings against an employer (respondent). The agency also uses this term to refer to the collection of charges that may make up a single case. Here we are using the terms distinctly.
 
 #### Questions?
 For questions about the contents of this repo, email [Joe Yerardi](https://publicintegrity.org/author/joe-yerardi/): jyerardi@publicintegrity.org.
