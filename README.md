@@ -38,12 +38,45 @@ Note: A single case will often contain multiple alleged adverse actions with mul
 ### [basis_grouped_basis_crosswalk](data/basis_grouped_basis_crosswalk.csv)
 This comma-delimited text file serves as the basis-to-grouped-basis crosswalk table.
 
-## Data dictionary (complaints_11_17.txt)
+## Data dictionaries
+
+### complaints_10.txt
+
+* Unique ID: unique identifier for each case (a case is a collection of related charges)
+* State Code: complainant state
+* No of Employees Code: code indicating the approximate number of employees working for respondent employer
+* No of Employees: approximate number of employees working for respondent employer
+* NAICS Code: North American Industry Classification System code of respondent employer
+* NAICS Description: North American Industry Classification System description of respondent company (e.g., crude petroleum and natural gas extraction)
+* Institution Type Code: classification code of respondent employer
+* Institution Type: classification of respondent employer (e.g., private employer)
+* CP Date of Birth: complainant’s date of birth
+* CP Sex: complainant’s gender
+* Date First Office: date charge was filed
+* Date FEPA Sent to EEOC: date charge was forwarded to the EEOC
+* Closure Date: date investigation of case was closed
+* Closure Code: code indicating how case was closed
+* Closure Type: description indicating how case was closed (e.g., no cause finding issued)
+* Monetary Benefits: monetary benefit complainant received
+* Statute Code: code for statute under which charge was filed
+* Statute: statute under which charge was filed (e.g., Americans with Disabilities Act)
+* Basis Code: code for basis of discrimination
+* Basis: basis of discrimination (e.g., race-black/African American)
+* Issue Code: type code for adverse action alleged by complainant
+* Issue: adverse action alleged by complainant (e.g., harassment)
+* Court Filing Date: date complainant filed a lawsuit
+* Civil Action Number: case number of lawsuit
+* Court: court in which lawsuit was filed
+* Litigation Resolution Date: date lawsuit was resolved
+* Litigation Monetary Benefits: monetary damages recovered through lawsuit
+* Litigation Case Type: case type of lawsuit
+
+### complaints_11_17.txt
 
 * FISCAL_YEAR: fiscal year in which a complainant first filed a charge
 * CHARGE_INQUIRY_SEQ: unique identifier for each case (a case is a collection of related charges)
 * STATE_CODE: complainant state
-* NUMBER_OF_EMPLOYEES_CODE: code indicating the approximate number of employees working for respondent employer 
+* NUMBER_OF_EMPLOYEES_CODE: code indicating the approximate number of employees working for respondent employer
 * NUMBER_OF_EMPLOYEES: approximate number of employees working for respondent employer
 * NAICS_CODE: North American Industry Classification System code of respondent employer
 * NAICS_DESCRIPTION: North American Industry Classification System description of respondent company (e.g., crude petroleum and natural gas extraction)
