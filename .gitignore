@@ -1,4 +1,3 @@
 
 \.ipynb_checkpoints/
-config.json
-*.txt
+data\raw
