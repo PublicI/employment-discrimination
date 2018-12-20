@@ -1,0 +1,87 @@
+basis,grouped_basis
+Age,Age
+Age (Non-Adea),Age
+Alcoholism,Disability/Medical
+Allergies,Disability/Medical
+Alzheimers,Disability/Medical
+Ancestry,Ancestry/National Origin
+Asthma,Disability/Medical
+Autism,Disability/Medical
+Blood (Other),Disability/Medical
+Brain/Head Impairment,Disability/Medical
+Brain/Head Injury (Traumatic),Disability/Medical
+Cancer,Disability/Medical
+Cerebral Palsy,Disability/Medical
+Chemical Sensitivity,Disability/Medical
+Color,Color
+Conviction Record,Other
+Cumulative Trauma Disorder,Disability/Medical
+Cystic Fibrosis,Disability/Medical
+Depression,Disability/Medical
+Diabetes,Disability/Medical
+Disfigurement,Disability/Medical
+Drug Addiction,Disability/Medical
+Dwarfism,Disability/Medical
+Epilepsy,Disability/Medical
+Equal Pay-Female,Equal Pay
+Equal Pay-Male,Equal Pay
+Gastrointestinal,Disability/Medical
+Genetic Discrimination,Genetics
+Genetic Information Discrimination,Genetics
+Genetic Testing,Genetics
+HIV,Disability/Medical
+Handicap (Not ADA),Disability/Medical
+Hearing Impairment,Disability/Medical
+Heart/Cardiovascular,Disability/Medical
+Intellectual Disability,Disability/Medical
+Kidney Impairment,Disability/Medical
+Learning Disability,Disability/Medical
+Manic Depression (Bi-polar),Disability/Medical
+Marital Status,Other
+Missing Digits/Limbs,Disability/Medical
+Multiple Sclerosis,Disability/Medical
+"National Origin-Arab, Afghani or Middle-Eastern",Ancestry/National Origin
+National Origin-East Indian,Ancestry/National Origin
+National Origin-Hispanic,Ancestry/National Origin
+National Origin-Mexican,Ancestry/National Origin
+National Origin-Other,Ancestry/National Origin
+Nonparalytic Orthopedic Impairment,Disability/Medical
+Orthopedic/Structural Back Impairment,Disability/Medical
+Other,Other
+Other Anxiety Disorder,Disability/Medical
+Other Disability,Disability/Medical
+Other Neurological,Disability/Medical
+Other Psychiatric Disorders,Disability/Medical
+Other Pulmo/Respiratory,Disability/Medical
+Paralysis,Disability/Medical
+Post-Traumatic Stress Disorder,Disability/Medical
+Race-American Indian/Alaska Native,Race
+Race-Asian,Race
+Race-Asian/Pacific Islander - Obsolete,Race
+Race-Bi-Racial/Multi-Racial,Race
+Race-Black/African American,Race
+Race-Native Hawaiian/Pacific Islander,Race
+Race-Other - Obsolete,Race
+Race-White,Race
+Record Of Disability,Disability/Medical
+Regarded As Disabled,Disability/Medical
+Relationship/Assn.,Other
+Religion-7th Day Adventist,Religion
+Religion-Catholic,Religion
+Religion-Jewish,Religion
+Religion-Muslim,Religion
+Religion-Other,Religion
+Religion-Protestant,Religion
+Religion-Sikhs,Religion
+Retaliation,Retaliation
+Schizophrenia,Disability/Medical
+Sex-Female,Sex
+Sex-Gender Identity/Transgender,Sex
+Sex-Male,Sex
+Sex-Pregnancy,Sex
+Sex-Sexual Orientation,Sex
+Sexual Orientation,Sex
+Speech Impairment,Disability/Medical
+Tuberculosis,Disability/Medical
+Unassigned,Other
+Vision Impairment,Disability/Medical
