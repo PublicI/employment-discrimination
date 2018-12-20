@@ -17,18 +17,22 @@ This tab-delimited text file contains data on employment discrimination complain
 
 ### [cases_by_basis.csv](data/cases_by_basis.csv)
 This comma-delimited text file contains data on outcomes of employment discrimination complaints by the specific basis under which a case was filed.
+
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_grouped_basis](data/cases_by_grouped_basis.csv)
 This comma-delimited text file contains data on outcomes of employment discrimination complaints by the grouped basis under which a case was filed. A crosswalk table matching basis to grouped basis lays that out.
+
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_basis_and_closure_action.csv](data/cases_by_basis_and_closure_action.csv)
 This comma-delimited text file contains data on outcomes of employment discrimination complaints grouped by the specific basis under which a case was filed and the specific closure action it got.
+
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [cases_by_year](data/cases_by_year.csv)
 This comma-delimited text file contains data on outcomes of employment discrimination complaints by year.
+
 Note: A single case will often contain multiple alleged adverse actions with multiple bases of discrimination. As such, the figures in this file will add up to more than the total number of cases filed in this period.
 
 ### [basis_grouped_basis_crosswalk](data/basis_grouped_basis_crosswalk.csv)
