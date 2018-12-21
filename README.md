@@ -10,10 +10,13 @@ Its first story, ['Discriminatory Intent'](https://publicintegrity.org/workers-r
 This Jupyter notebook contains code used to analyze employment discrimination cases filed with the federal Equal Employment Opportunity Commission and state and local fair employment practices agencies.
 
 ### [process_eeoc.sh](process_eeoc.sh)
-This Bash script contains code used to concatenate annual discrimination charge data for fiscal years 2009 through 2017.
+This Bash script contains code used to concatenate annual discrimination charge data for fiscal years 2011 through 2017.
+
+### [complaints_10.txt](data/complaints_10.txt)
+This tab-delimited text file contains data on employment discrimination charges for fiscal year 2010. The data comes from the [Equal Employment Opportunity Commission](https://www.eeoc.gov/) and encompasses charges filed with the EEOC and charges filed with state and local fair employment practices agencies alleging violations of federal anti-discrimination laws.
 
 ### [complaints_11_17.txt](data/complaints_11_17.txt)
-This tab-delimited text file contains data on employment discrimination charges. The data comes from the [Equal Employment Opportunity Commission](https://www.eeoc.gov/) and encompasses charges filed with the EEOC and charges filed with state and local fair employment practices agencies alleging violations of federal anti-discrimination laws.
+This tab-delimited text file contains data on employment discrimination charges for fiscal years 2011 through 2017. The data comes from the [Equal Employment Opportunity Commission](https://www.eeoc.gov/) and encompasses charges filed with the EEOC and charges filed with state and local fair employment practices agencies alleging violations of federal anti-discrimination laws.
 
 ### [cases_by_basis.csv](data/cases_by_basis.csv)
 This comma-delimited text file contains data on outcomes of employment discrimination cases by the specific basis (e.g., Race-Black/African-American) under which a case was filed.
