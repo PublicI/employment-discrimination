@@ -108,4 +108,4 @@ This comma-delimited text file serves as the basis-to-grouped-basis crosswalk ta
 **Note on terminology**: The EEOC typically uses the word "charge" to refer to each allegation a complainant (charging party) brings against an employer (respondent). The agency also uses this term to refer to the collection of charges that may make up a single case. Here we are using the terms distinctly.
 
 #### Questions?
-For questions about the contents of this repo, email [Joe Yerardi](https://publicintegrity.org/author/joe-yerardi/): jyerardi@publicintegrity.org.
+For questions about the contents of this repo, email [Joe Yerardi](https://publicintegrity.org/author/joe-yerardi/) at jyerardi@publicintegrity.org.
