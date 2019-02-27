@@ -2,7 +2,7 @@
 
 This repo contains code and data for [Injustice at Work](https://publicintegrity.org/topics/workers-rights/workplace-inequities/injustice-at-work/), a Center for Public Integrity project about the effectiveness of federal and state equal employment opportunity laws and the agencies charged with enforcing them.
 
-Its first story, ['Discriminatory Intent'](https://publicintegrity.org/workers-rights/workplace-inequities/injustice-at-work/workplace-discrimination-cases/), was published on Dec. 21, 2018 in partnership with [The Washington Post]().
+Its first story, ['Despite legal protections, most workers who face discrimination are on their own'](https://publicintegrity.org/workers-rights/workplace-inequities/injustice-at-work/workplace-discrimination-cases/), was published on Feb. 28, 2019 in partnership with [Vox]().
 
 ## Here's what's in this repo.
 
